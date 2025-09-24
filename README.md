@@ -16,14 +16,14 @@ This project is part of my data science portfolio and demonstrates skills in Rec
 ✅ Interactive App: Simple and user-friendly interface for real-time emotion detection.  
 
 ## Screenshots
-The model was fine-tuned using the j-hartmann/emotion-english-distilroberta-base transformer, and evaluated to measure its performance across different emotion categories
+The system was built using TF-IDF vectorization and cosine similarity for content-based filtering, enabling recommendations based on movie plot descriptions.
 
-### Confusion Matrix
-![Confusion Matrix]()  
+### Word Frequency
+![word]()  
 
-### Input and Prediction Examples
-![Demo 1]()
-![Demo 2]()  
+### Recommendation Example
+![img 1]()
+![img 2]()  
 
 ## Tools and Technologies used 
 - **Python**
