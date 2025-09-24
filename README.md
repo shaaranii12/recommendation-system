@@ -18,12 +18,11 @@ This project is part of my data science portfolio and demonstrates skills in Rec
 ## Screenshots
 The system was built using TF-IDF vectorization and cosine similarity for content-based filtering, enabling recommendations based on movie plot descriptions.
 
-### Word Frequency
-![word]()  
+### Word Frequency Cloud
+![word](images/word.png)  
 
 ### Recommendation Example
-![img 1]()
-![img 2]()  
+![img 1](images/img1.png)
 
 ## Tools and Technologies used 
 - **Python**
